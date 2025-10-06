@@ -1,0 +1,23 @@
+
+:root {
+    --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+/* Minimal appointment UI tweaks */
+.main-content { padding: 1rem; }
+#appointmentsTable tbody tr td { vertical-align: middle; }
+.modal .form-label { font-weight: 600; }
+.modal .small.text-muted { margin-top: .75rem; }
+
+/* confirmation popup helper (used by scripts) */
+#appointmentConfirmPopup {
+    position: fixed;
+    right: 1rem;
+    top: 1rem;
+    background: rgba(0,0,0,0.8);
+    color: #fff;
+    padding: .5rem 1rem;
+    border-radius: 4px;
+    z-index: 9999;
+    display: none;
+}
