@@ -95,7 +95,7 @@
 <body>
     <div class="admin-login-box">
         <img src="/images/logos.png" alt="Kamatage Logo" class="admin-logo">
-        <h4 style="font-weight:bold; margin-bottom:2px;">Welcome to Kamatage Hearing Aid Solution</h4>
+        <h4 style="font-weight:bold; margin-bottom:2px;">Welcome to Kamatage Hearing Aids</h4>
         <br>
          <div class="bold-text-muted" style="font-size:1rem;">Sign in to access your dashboard!</div>
          <br>
